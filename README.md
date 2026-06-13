@@ -1,4 +1,4 @@
-# adventure_game
+# cactus_adventure_game
 A Python text adventure game where you wake up in a desert and try to survive.
 
 Features:
